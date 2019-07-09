@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+//import {cr} from 'ngx-cron-jobs';
 
 @Component({
   selector: 'app-root',
